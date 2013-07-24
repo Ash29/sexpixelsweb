@@ -98,7 +98,15 @@ td { vertical-align: top; }
 }
 			
 
+#info { 
+	float:right;
+	color: #fff;
+	font: 400 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0 20px 0 0;
+	line-height: 42px;
+	text-shadow: #000 1px 1px 2px;
 
+}
 
 
 
